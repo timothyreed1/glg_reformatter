@@ -5,7 +5,7 @@ A lightweight local browser tool for reformatting raw GLG expert network profile
 ## Setup
 
 1. Clone or download the repo
-2. Rename the file `config.js.template` to `config.js` in the same folder as `glg_reformatter_openai.html` and edit to replate `yourKeyHere` to your actual OpenAI API key.
+2. Rename the file `config.js-template` to `config.js` in the same folder as `glg_reformatter_openai.html` and edit to replate `yourKeyHere` to your actual OpenAI API key.
 
 ```javascript
 const OPENAI_API_KEY = 'sk-yourKeyHere';
