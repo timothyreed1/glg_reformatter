@@ -37,4 +37,4 @@ const OPENAI_API_KEY = 'sk-yourKeyHere';
 
 ## Distribution
 
-Do not include `config.js` when sharing -- recipients add their own key.
+Do not include `config.js` when sharing. Recipients must add their own key.
